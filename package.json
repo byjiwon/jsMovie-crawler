@@ -1,0 +1,16 @@
+{
+  "name": "jscrawler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "crawl.js",
+  "dependencies": {
+    "axios": "^0.19.1",
+    "cheerio": "^1.0.0-rc.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
