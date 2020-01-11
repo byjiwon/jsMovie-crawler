@@ -79,7 +79,7 @@ getHTML().then(html => {
       directors,
       actors
     };
-    return ulList.unshift(ulList[i]);
+    return ulList.push(ulList[i]);
   });
   console.log(ulList);
 });
